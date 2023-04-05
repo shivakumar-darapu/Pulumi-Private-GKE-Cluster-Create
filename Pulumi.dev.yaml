@@ -1,0 +1,3 @@
+config:
+  gcp:credentials: C:\Users\A622888\Downloads\warm-tokenizer.json
+  gcp:project: warm-tokenizer-376310

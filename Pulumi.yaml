@@ -1,0 +1,6 @@
+name: gcp-cluster-create
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: create a gke cluster in gcp cloud
